@@ -14,6 +14,7 @@ public class HController {
 
     @FXML
     void initialize() {
+        hello world
 
     }
 
